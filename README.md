@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xhuve</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Albania</h3>
 
 - 🌱 I’m currently learning **C# and ASP.NET Core**
 
