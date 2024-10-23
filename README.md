@@ -3,7 +3,7 @@
 
 - I’m a student at **Holberton School**
 
-- I’m currently learning **C# and ASP.NET Core**
+- I’m currently learning **Nest.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
